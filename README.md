@@ -1,6 +1,8 @@
 <!-- Título -->
 # Estruturas de Repetição em C
 
+Explorando o Poder da Iteração.
+
 ***Conteúdo do Módulo:***
 
 * [ ] [Estrutura `while()` — Teoria em C.](https://github.com/Devsgeeknerd/cla-est-whi-teo-c-est-rep-c-log-par-pro-com-bas) &#128679;
